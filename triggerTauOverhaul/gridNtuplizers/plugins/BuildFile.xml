@@ -1,0 +1,16 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="DataFormats/EcalDigi"/>
+<use name="DataFormats/HcalDigi"/>
+<use name="DataFormats/L1CaloTrigger"/>
+<use name="DataFormats/L1Trigger"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="PhysicsTools/TensorFlow"/>
+<use name="CondFormats/L1TObjects"/>
+<use name="DataFormats/L1TGlobal"/>
+
+<use name="ROOT"/>
+
+<flags EDM_PLUGIN="1"/>
