@@ -19,4 +19,6 @@ cp -r triggerTauOverhaul CMSSW_14_0_0_pre1/src/
 cd CMSSW_14_0_0_pre1/src/
 cmsenv
 scram b
+git clone git@github.com:cms-hls4ml/hls4mlEmulatorExtras.git
+git clone git@github.com:Xilinx/HLS_arbitrary_Precision_Types.git hls
 cd ../../
