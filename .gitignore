@@ -1,1 +1,3 @@
 *.pyc
+CMSSW*
+hls4mlEnv*
