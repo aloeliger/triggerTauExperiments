@@ -1,3 +1,5 @@
 *.pyc
 CMSSW*
 hls4mlEnv*
+*.o
+*.so
