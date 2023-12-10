@@ -1,7 +1,7 @@
 python3 -m venv hls4mlEnv
 source hls4mlEnv/bin/activate
 python3 -m pip install pip --upgrade --no-cache-dir
-python3 -m pip install --no-cache-dir hls4ml
+python3 -m pip install --no-cache-dir hls4ml pyparsing
 deactivate
 
 cmsrel CMSSW_14_0_0_pre1
